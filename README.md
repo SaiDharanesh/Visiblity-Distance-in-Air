@@ -2,7 +2,8 @@
 Problem Statement
 To build a regression model to predict the visibility distance based on the given different climatic indicators in the training data. 
 Architecture
-  
+  ![image](https://user-images.githubusercontent.com/89697860/152850877-7c4c679e-2075-4d26-8783-73e5d264f84b.png)
+
 Data Description
 Data Description: This dataset predicts the visibility distance based on the different indicators as below:
 
